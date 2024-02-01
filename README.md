@@ -8,5 +8,7 @@
 
 Если вы хотите изменить кто получает доступ, вы можете это сделать [тут]([https://pages.github.com/](https://teachablemachine.withgoogle.com/train/image/)).
 
+[I'm an inline-style link](https://www.google.com)
+
 ![image](https://github.com/Frozn11/Give-acsses/assets/49820118/da970668-8b3e-405f-905d-34fd3a8bc9df)
 
